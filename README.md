@@ -40,5 +40,5 @@ $ brew install sourcery
 ## License
 
 This wallet is open source and available under the terms of the MIT License.
-https://github.com/P7-33/WWW.MATRIX-BLOCKCHAIN.EXCHANGE.io.wiki.git
-wonderfullcash@gmail.com
+https://github.com/GIMICI/Wallet-GMC.ios/tree/master
+
