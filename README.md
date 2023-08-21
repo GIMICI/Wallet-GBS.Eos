@@ -1,4 +1,4 @@
-# Wallet GMC.io
+# Wallet GBS.EOS
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
